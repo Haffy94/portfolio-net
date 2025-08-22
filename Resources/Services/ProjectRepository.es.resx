@@ -157,4 +157,12 @@
     <value>Un portafolio donde podrás ver mis proyectos y contactarme</value>
     <comment/>
   </data>
+  <data name="paolaamarilloTitle" xml:space="preserve">
+    <value>Paola Amarillo</value>
+    <comment/>
+  </data>
+  <data name="paolaamarilloDescription" xml:space="preserve">
+    <value>Landing page para asesora empresarial especializada en selección de personal, PNL y grafología.</value>
+    <comment/>
+  </data>
 </root>

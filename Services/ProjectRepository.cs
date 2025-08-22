@@ -34,6 +34,13 @@ namespace Portfolio.Services
                     Description = _localizer["MariacelestebrunettiDescription"],
                     Link = "https://www.mariacelestebrunetti.com/",
                     ImageURL = "/images/mariacelestebrunetti.png"
+                },
+                                new ProjectDTO
+                {
+                    Title = _localizer["paolaamarilloTitle"],
+                    Description = _localizer["paolaamarilloDescription"],
+                    Link = "https://paolaamarillo.com/",
+                    ImageURL = "/images/paolaamarillo.png"
                 }
             };
         }
