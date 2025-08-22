@@ -157,4 +157,12 @@
     <value>A portfolio where you can see my projects and contact me</value>
     <comment/>
   </data>
+  <data name="paolaamarilloTitle" xml:space="preserve">
+    <value> Paola Amarillo</value>
+    <comment/>
+  </data>
+  <data name="paolaamarilloDescription" xml:space="preserve">
+    <value>Landing page for a business consultant specialized in personnel selection, NLP, and graphology.</value>
+    <comment/>
+  </data>
 </root>
