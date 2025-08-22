@@ -38,7 +38,7 @@ namespace Portfolio.Services
                                 new ProjectDTO
                 {
                     Title = _localizer["paolaamarilloTitle"],
-                    Description = _localizer["paolaamarilloDescription"],
+                    Description = _localizer["paolaamarilloDescription"], 
                     Link = "https://paolaamarillo.com/",
                     ImageURL = "/images/paolaamarillo.png"
                 }
